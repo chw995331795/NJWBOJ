@@ -1,6 +1,6 @@
 package entity;
 
-public class staff {
+public class Staff {
     private String staff_no;
     private String staff_name;
     private String sex;
